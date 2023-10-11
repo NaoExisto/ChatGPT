@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700&display=swap');
+*{ 
+    font-family: 'Inter', sans-serif;
+    font-size: medium;
+}
+main{
+    width: 1432px;
+    height: 752px;
+    background-color: #343541;
+}
+#LogoGPT{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+.LogoGPT{
+    display: flex;
+    justify-content: center;
+    padding-top: 295px;
+}
+.Texto1{
+    display: flex;
+    color: #FFFFFF;
+    font-size: 15px;
+    height: 27px;
+    width: 319px;
+    margin-left: 646px;
+}
+.Texto2{
+    display: flex;
+    color: #FFFFFF;
+    font-size: 15px;
+    height: 27px;
+    width: 340px;
+    margin-left: 549px;
+}
+input{
+    width: 66px;
+    height: 38px;
+    border-radius: 6px;
+    background-color: #0FA47F;
+    color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+}
+.botao{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    
+}
+#botao2{
+    margin-left: 10px;
+    
+}
