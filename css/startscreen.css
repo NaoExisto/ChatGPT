@@ -1,0 +1,66 @@
+main{
+    width: 1432px;
+    height: 752px;
+    
+    
+}
+.left{
+    width: 261px;
+    height: 752px;
+    background-color: #202123;
+}
+.right{
+    width: 1171px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 300px;
+    padding-top: 141px;
+    background-color: #343541;
+    color: #ffffff;
+
+}
+
+.tudo{
+    flex-direction: row;
+    display: flex;
+}
+
+input{
+    width: 244px;
+    height: 45px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    background-color: #444654;
+    color: #ffffff;
+}
+hr{
+    padding-top: 491px;
+}
+.left_baixo{
+    color: #ffffff
+}
+
+.examples{
+    width: 230px;
+    width: 308px;
+    display: flex;
+    flex-direction: column;
+}
+.examples img{
+    width: 20px;
+    height: 20px;
+}
+.examples p{
+    border: 2px solid #444654;
+    border-radius: 10px;
+    background-color: #444654;
+    width: 230px;
+    height: 66px;
+    text-align: center;
+    padding-top: 10px;
+}
+.Capabilities{
+    
+}
